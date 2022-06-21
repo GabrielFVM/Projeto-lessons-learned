@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto de Lições Aprendidas!
+pow# Boas-vindas ao repositório do projeto de Lições Aprendidas!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver **qualquer dúvida**, nos envie no _Slack_ da turma! #vqv 🚀
 
