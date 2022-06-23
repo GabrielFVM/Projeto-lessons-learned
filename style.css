@@ -1,8 +1,20 @@
 body {
     background-color: rgb(253, 251, 251);
 }
-
-#titulo {
+#cabeçalho {
     background-color: green;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+}
+#titulo {
     text-align: center;
+    top: 0;
+    color: white;
+}
+#minha_foto {
+    position: absolute;
+    top: 90px;
 }
