@@ -1,28 +1,27 @@
-body {
+body{
     background-color: rgb(253, 251, 251);
 }
-#cabeçalho {
+#cabecalho{
     background-color: green;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
     height: 70px;
 }
-#titulo {
+#titulo{
     text-align: center;
     top: 0;
     color: white;
 }
-#minha_foto {
+#minha_foto{
     position: absolute;
     top: 90px;
 }
-#principal {
+#principal{
     position: absolute;
     top: 400px;
 }
-
-#licoes_a_aprender {
+#licoes_a_aprender{
     float: right;
 }
