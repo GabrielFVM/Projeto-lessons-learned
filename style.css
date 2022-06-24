@@ -18,3 +18,11 @@ body {
     position: absolute;
     top: 90px;
 }
+#principal {
+    position: absolute;
+    top: 400px;
+}
+
+#para_aprender {
+    float: right;
+}
