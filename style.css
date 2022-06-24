@@ -1,8 +1,8 @@
-body{
+body {
     background-color: rgb(253, 251, 251);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-#cabecalho{
+#cabecalho {
     background-color: green;
     position: fixed;
     top: 0;
@@ -10,41 +10,45 @@ body{
     right: 0;
     height: 70px;
 }
-#titulo{
+#titulo {
     text-align: center;
     top: 0;
     color: white;
     
 }
-.principal{
-    position: absolute;
-    top: 100px;
-    left: 40%;
-    margin: 0 auto;
+.principal {
+    position: static;
+    top:300px;
     text-align: center;
 }
 .botao {
-    position: absolute;
+    position: static;
     padding: 20px;
     left: 15px;
-    bottom: 35px;
+    bottom: 25px;
     border-radius: 15%;
     background-color: black;
     color: white;
-    bottom: 2%;
     text-decoration: none;
 }
 
 #listas {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     text-align: left;
+    left: 50%;
 }
 
 #rodape {
-    background-color: gray;
-    position: fixed;
+    background-color: rgb(175, 175, 175);
+    position: relative;
     bottom: 0;
     left: 0;
     right: 0;
     height: 90px;
+}
+#artigo {
+    position: static;
+    width:  30%;
+    text-align: center;
+    left: 50%;
 }
