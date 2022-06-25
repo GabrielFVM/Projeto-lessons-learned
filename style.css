@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 body {
     background-color: rgb(253, 251, 251);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,38 +20,43 @@ body {
     
 }
 .principal {
-    position: static;
-    top:300px;
-    text-align: center;
+    margin-top: 100px;
+}
+.centralizar{
+    margin-left: 40%;
 }
 .botao {
-    position: static;
     padding: 20px;
-    left: 15px;
-    bottom: 25px;
     border-radius: 15%;
     background-color: black;
     color: white;
     text-decoration: none;
+    margin: 25px
 }
-
 #listas {
     /* border: 3px solid red; */
-    text-align: left;
-    left: 50%;
+    margin-left: 38%;
+    margin-right: 42%;
+    margin-bottom: 290px;
 }
-
+#licoes_a_aprender {
+    float: right;
+}
+#licoes_aprendidas {
+    float: left;
+}
 #rodape {
     background-color: rgb(175, 175, 175);
     position: relative;
-    bottom: 0;
-    left: 0;
-    right: 0;
     height: 90px;
+    bottom: 0;
 }
-#artigo {
-    position: static;
-    width:  30%;
+#artigo p{
     text-align: center;
-    left: 50%;
+    width: 30%;
+    margin-left: 35%;
+}
+
+h2 {
+    margin-left: 45%;
 }
