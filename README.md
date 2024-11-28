@@ -280,7 +280,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
 **Leva menos de 3 minutos!**
 
 [Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
+ 
 </details>
 
 <details>
@@ -293,8 +293,24 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 <br />
   
 # Requisitos do projeto
+ - [ ] Adicione uma cor de fundo específica para a página 
+ - [ ] Adicione uma barra superior com um título 
+ - [ ] Adicione uma foto sua à página
+ - [ ] Adicione uma lista de lições aprendidas à página 
+ - [ ] Crie uma lista de lições que ainda deseja aprender para a página 
+ - [ ] Adicione um rodapé para a página
+ - [ ] Insira pelo menos um link externo na página
+ - [ ] Crie um artigo sobre o seu aprendizado 
+ - [ ] Crie uma tag html `aside` que contenha uma breve descrição sobre você 
+ - [ ] Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
+ - [ ] Teste se a semântica da sua página está aprovada pelo site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
+**Bonus**
+ - [ ] Adicione uma tabela à página 
+ - [ ] Utilize o Box model 
+ - [ ] Altere atributos relacionados às fontes 
+ - [ ] Posicione a tag `article` e a tag `aside` uma ao lado do outra
 
-## 1. Adicione uma cor de fundo específica para a página - [ ]
+## 1. Adicione uma cor de fundo específica para a página 
 
 <details>
 
@@ -307,7 +323,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 2. Adicione uma barra superior com um título []
+## 2. Adicione uma barra superior com um título 
 
 <details>
 
@@ -323,7 +339,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 3. Adicione uma foto sua à página []
+## 3. Adicione uma foto sua à página 
 
 <details>
 
@@ -336,7 +352,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 4. Adicione uma lista de lições aprendidas à página []
+## 4. Adicione uma lista de lições aprendidas à página 
 <details>
 
 <summary>A lista deve possuir <strong>10</strong> itens, ser numerada e possuir o ID <code>licoes_aprendidas</code>.
@@ -352,7 +368,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 5. Crie uma lista de lições que ainda deseja aprender para a página []
+## 5. Crie uma lista de lições que ainda deseja aprender para a página 
 
 <details>
 
@@ -369,7 +385,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 6. Adicione um rodapé para a página []
+## 6. Adicione um rodapé para a página 
 
 <details>
 
@@ -382,7 +398,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 7. Insira pelo menos um link externo na página []
+## 7. Insira pelo menos um link externo na página 
 
 <details>
 
@@ -395,7 +411,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 8. Crie um artigo sobre o seu aprendizado []
+## 8. Crie um artigo sobre o seu aprendizado 
 
 <details>
 
@@ -409,7 +425,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 9. Crie uma tag html `aside` que contenha uma breve descrição sobre você []
+## 9. Crie uma tag html `aside` que contenha uma breve descrição sobre você 
 
 <details>
 
@@ -425,7 +441,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles []
+## 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles 
 
 <details>
 
@@ -441,7 +457,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 11. Teste se a semântica da sua página está aprovada pelo site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) []
+## 11. Teste se a semântica da sua página está aprovada pelo site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) 
 
 <details>
 
@@ -458,7 +474,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
  
 # Requisitos Bônus
 
-## 12. Adicione uma tabela à página []
+## 12. Adicione uma tabela à página 
 
 <details>
 
@@ -471,7 +487,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 13. Utilize o Box model []
+## 13. Utilize o Box model 
 
 <details>
 
@@ -486,7 +502,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 14. Altere atributos relacionados às fontes []
+## 14. Altere atributos relacionados às fontes 
 
 <details>
 
@@ -502,7 +518,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 </details>
 
-## 15. Posicione a tag `article` e a tag `aside` uma ao lado do outra []
+## 15. Posicione a tag `article` e a tag `aside` uma ao lado do outra 
 
 <details>
 
