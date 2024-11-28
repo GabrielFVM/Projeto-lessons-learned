@@ -294,7 +294,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
   
 # Requisitos do projeto
 
-## 1. Adicione uma cor de fundo específica para a página []
+## 1. Adicione uma cor de fundo específica para a página - [ ]
 
 <details>
 
