@@ -296,8 +296,7 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 
 ## Checklist
 
-[](https://github.com/GabrielFVM/Projeto-lessons-learned/issues/1)
-
+[Checklist Issue](https://github.com/GabrielFVM/Projeto-lessons-learned/issues/1)
 - [ ] Adicione uma cor de fundo específica para a página 
  - [ ] Adicione uma barra superior com um título 
  - [ ] Adicione uma foto sua à página
