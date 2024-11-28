@@ -293,18 +293,24 @@ Você sabia que o LinkedIn é a principal rede social profissional e compartilha
 <br />
   
 # Requisitos do projeto
- - [ ] Adicione uma cor de fundo específica para a página 
- - [ ] Adicione uma barra superior com um título 
- - [ ] Adicione uma foto sua à página
- - [ ] Adicione uma lista de lições aprendidas à página 
- - [ ] Crie uma lista de lições que ainda deseja aprender para a página 
- - [ ] Adicione um rodapé para a página
- - [ ] Insira pelo menos um link externo na página
- - [ ] Crie um artigo sobre o seu aprendizado 
- - [ ] Crie uma tag html `aside` que contenha uma breve descrição sobre você 
- - [ ] Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
- - [ ] Teste se a semântica da sua página está aprovada pelo site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
+
+## Checklist
+
+[Checklist Issue](https://github.com/GabrielFVM/Projeto-lessons-learned/issues/1)
+- [x] Adicione uma cor de fundo específica para a página 
+ - [x] Adicione uma barra superior com um título 
+ - [x] Adicione uma foto sua à página
+ - [x] Adicione uma lista de lições aprendidas à página 
+ - [x] Crie uma lista de lições que ainda deseja aprender para a página 
+ - [x] Adicione um rodapé para a página
+ - [x] Insira pelo menos um link externo na página
+ - [x] Crie um artigo sobre o seu aprendizado 
+ - [x] Crie uma tag html `aside` que contenha uma breve descrição sobre você 
+ - [x] Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
+ - [x] Teste se a semântica da sua página está aprovada pelo site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
+ --------------
 **Bonus**
+
  - [ ] Adicione uma tabela à página 
  - [ ] Utilize o Box model 
  - [ ] Altere atributos relacionados às fontes 
